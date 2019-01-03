@@ -1,0 +1,12 @@
+import turtle
+pen = turtle.Turtle ()
+pen.left (144)
+pen.forward (120)
+pen.left (144)
+pen.forward (120)
+pen.left (144)
+pen.forward (120)
+pen.left (144)
+pen.forward (120)
+pen.left (144)
+pen.forward (120)
