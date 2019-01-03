@@ -1,4 +1,5 @@
-t=0
-for i in range (0,10,2):
-    t=t+2*2.4
+t = 1
+N = 5
+for i in range (1, N, 2):
+    t *= i
 print(t)
